@@ -191,4 +191,4 @@ async def on_disconnect():
     driver.quit()
 
 # Run the bot with your bot token
-bot.run('MTI4MDA0NzAxMTMxMTI1NTY3NA.Gay6rg.MAPAqaSs8lGmgL3vymCmlrfET9I7OCjVMs5Rxw')
+bot.run('')
